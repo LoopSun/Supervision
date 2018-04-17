@@ -42,7 +42,7 @@
 * [打击传销规范直销信息系统](http://zxjg.saic.gov.cn/mrktwcms/directsale/exposuretel/html/doc1068.html)
 
 
-### 消费监督
+### 服务监督
 * [国家邮政局申诉网站](http://sswz.spb.gov.cn/)
 
 
